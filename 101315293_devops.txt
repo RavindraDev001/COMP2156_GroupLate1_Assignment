@@ -1,0 +1,1 @@
+Comp2156 is taught by Professor Priteshkumar Patel. In this class, we learn how to use git to help streamline the development process. We also learn how to automate certain tasks that help speed up the development cycle.
